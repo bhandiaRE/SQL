@@ -20,7 +20,7 @@ The unique advantage of this course is that in addition to learning SQL you will
 We will cover off topics such as:
 - OLAP vs OLTP databases (Online Analytics Processing & Online Transaction Processing): you will understand exactly how and why the designs of these two types of Databases differ
 - Normalization of Databases: we will show you the theory behind normalization AND together we will practice how to normalize a Database step-by-step
-- 
+
 Why is that important?
 
 Knowing how databases are designed is not a compulsory skill to have for a Data Scientist / Analyst. However, it's a HUGE added benefit.
